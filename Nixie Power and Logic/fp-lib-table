@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 74HC595PW)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/KICAD Libraries/74HC595PW.pretty/74HC595PW.mod")(options "")(descr ""))
+  (lib (name "Kicad nixie missing sch")(type KiCad)(uri "C:/Users/newbi/Documents/PCB Projects/Kicad nixie missing sch")(options "")(descr ""))
+  (lib (name Rotary_Encoder)(type KiCad)(uri "C:/Users/newbi/Documents/PCB Projects/KICAD Libraries/Rotary_Encoder.pretty")(options "")(descr ""))
+)

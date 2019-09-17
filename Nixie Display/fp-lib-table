@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name russian-nixies)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/KICAD Libraries/kicad-master/kicad-master/kicad_master.pretty/russian-nixies.mod")(options "")(descr ""))
+  (lib (name ws2812)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/KICAD Libraries/kicad-master/kicad-master/kicad_master.pretty/ws2812.mod")(options "")(descr ""))
+  (lib (name 74HC595PW)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/KICAD Libraries/74HC595PW.pretty/74HC595PW.mod")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/teensy.mod")(options "")(descr ""))
+  (lib (name plcc)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/plcc.mod")(options "")(descr ""))
+  (lib (name SparkFun-RF)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/SparkFun-RF.mod")(options "")(descr ""))
+)
