@@ -5,4 +5,5 @@
   (lib (name teensy)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/teensy.mod")(options "")(descr ""))
   (lib (name plcc)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/plcc.mod")(options "")(descr ""))
   (lib (name SparkFun-RF)(type Legacy)(uri "C:/Users/newbi/Documents/PCB Projects/kicad-master/kicad-master/kicad-master.pretty/SparkFun-RF.mod")(options "")(descr ""))
+  (lib (name "Nixie Power and Logic")(type KiCad)(uri "C:/Users/newbi/Documents/PCB Projects/Nixie-Clock/Nixie Power and Logic/Nixie Power and Logic.pretty")(options "")(descr ""))
 )

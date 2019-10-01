@@ -1,4 +1,4 @@
-16304150599082189
+16308856847241839
 74HC595PW
 SOP65P640X110-16N
 
@@ -50504,6 +50504,27 @@ net tie
 0
 4
 4
+Nixie Power and Logic
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Nixie Power and Logic
+D_SOD-214AA
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Nixie Power and Logic
+SOIC−8-NARROW
+8S2 – 8-lead EIAJ SOIC
+EIAJ SOIC 8
+0
+8
+8
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
